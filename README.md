@@ -4,9 +4,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-matheus-848323150/)
 
-![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelmths&theme=dracula)
+[![Micael's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelmths)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmths&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmths)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Tec's que utilizo no meu dia a dia
